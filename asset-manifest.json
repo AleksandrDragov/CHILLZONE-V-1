@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/CHILLZONE-V-1/static/css/main.7acaea2f.css",
-    "main.js": "/CHILLZONE-V-1/static/js/main.07d3183d.js",
+    "main.css": "/CHILLZONE-V-1/static/css/main.47478637.css",
+    "main.js": "/CHILLZONE-V-1/static/js/main.ae980544.js",
+    "static/css/647.d4edabca.chunk.css": "/CHILLZONE-V-1/static/css/647.d4edabca.chunk.css",
+    "static/js/647.0ebfe4aa.chunk.js": "/CHILLZONE-V-1/static/js/647.0ebfe4aa.chunk.js",
+    "static/js/80.cb2effb4.chunk.js": "/CHILLZONE-V-1/static/js/80.cb2effb4.chunk.js",
+    "static/js/326.a0dd84c8.chunk.js": "/CHILLZONE-V-1/static/js/326.a0dd84c8.chunk.js",
     "index.html": "/CHILLZONE-V-1/index.html",
-    "main.7acaea2f.css.map": "/CHILLZONE-V-1/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/CHILLZONE-V-1/static/js/main.07d3183d.js.map"
+    "main.47478637.css.map": "/CHILLZONE-V-1/static/css/main.47478637.css.map",
+    "main.ae980544.js.map": "/CHILLZONE-V-1/static/js/main.ae980544.js.map",
+    "647.d4edabca.chunk.css.map": "/CHILLZONE-V-1/static/css/647.d4edabca.chunk.css.map",
+    "647.0ebfe4aa.chunk.js.map": "/CHILLZONE-V-1/static/js/647.0ebfe4aa.chunk.js.map",
+    "80.cb2effb4.chunk.js.map": "/CHILLZONE-V-1/static/js/80.cb2effb4.chunk.js.map",
+    "326.a0dd84c8.chunk.js.map": "/CHILLZONE-V-1/static/js/326.a0dd84c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.47478637.css",
+    "static/js/main.ae980544.js"
   ]
 }

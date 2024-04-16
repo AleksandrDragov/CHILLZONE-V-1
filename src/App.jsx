@@ -4,11 +4,6 @@ import menuData from './data/menu.json';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import MainContainer from './components/MainContainer/MainContainer';
-//import HomePage from './Pages/Home/HomePage';
-//import BonusesPage from 'Pages/Bonuses/BonusesPage';
-//import Menu from './components/Menu/Menu';
-//! Styles
-//import app from './components/App/app.module.css';
 //! libraries
 import { lazy, Suspense } from 'react';
 import { Route, Routes } from 'react-router-dom';

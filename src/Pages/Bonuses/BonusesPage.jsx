@@ -1,10 +1,10 @@
 import React from 'react';
-
+import { BonusesContainer } from './Styled';
 const BonusesPage = () => {
   return (
-    <div>
+    <BonusesContainer>
       <h1 style={{ color: 'white' }}>Bonuses</h1>
-    </div>
+    </BonusesContainer>
   );
 };
 

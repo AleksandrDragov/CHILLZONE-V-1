@@ -1,24 +1,15 @@
-import styles from './menu.module.css';
-const Card = ({ title, name, price, logo }) => (
-  <div className={styles.container}>
-    <img
-      src={`${process.env.PUBLIC_URL}/images/${logo}`}
-      alt="Logo"
-      className={styles.logo}
-    />
-    <h2 className={styles.title}>{title}</h2>
-    <p className={styles.name}> {name}</p>
-    <p className={styles.price}>Price: {price} Kč</p>
-  </div>
-);
+import React from 'react';
+import Card from '../../components/Сard/Card';
+import { MenuContainer } from './Styled';
 
 const Menu = ({ data }) => {
   return (
-    <div className={styles.menu}>
+    <MenuContainer>
       {data.map((item, index) => (
         <Card key={index} {...item} />
       ))}
-    </div>
+    </MenuContainer>
   );
 };
+
 export default Menu;

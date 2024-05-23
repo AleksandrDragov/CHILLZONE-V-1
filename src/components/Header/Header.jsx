@@ -13,7 +13,6 @@ import {
   BurgerIcon,
 } from './Styled';
 import Modal from 'components/Modal/Modal';
-function ProfileHandlerModal(e) {}
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -48,6 +47,7 @@ export default function Header() {
               src={`${process.env.PUBLIC_URL}/images/logo.jpg`}
               width={'40px'}
               height={'40px'}
+              alt="logo"
             />
           </Profile>
           <ProfileSpan>Profile</ProfileSpan>

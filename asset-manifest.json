@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/CHILLZONE-V-1/static/css/main.47478637.css",
-    "main.js": "/CHILLZONE-V-1/static/js/main.142d1619.js",
-    "static/css/647.d4edabca.chunk.css": "/CHILLZONE-V-1/static/css/647.d4edabca.chunk.css",
-    "static/js/647.0ebfe4aa.chunk.js": "/CHILLZONE-V-1/static/js/647.0ebfe4aa.chunk.js",
-    "static/js/80.cb2effb4.chunk.js": "/CHILLZONE-V-1/static/js/80.cb2effb4.chunk.js",
-    "static/js/326.a0dd84c8.chunk.js": "/CHILLZONE-V-1/static/js/326.a0dd84c8.chunk.js",
+    "main.css": "/CHILLZONE-V-1/static/css/main.d38a66fa.css",
+    "main.js": "/CHILLZONE-V-1/static/js/main.f90e159f.js",
+    "static/js/940.029176f4.chunk.js": "/CHILLZONE-V-1/static/js/940.029176f4.chunk.js",
+    "static/js/918.921113cd.chunk.js": "/CHILLZONE-V-1/static/js/918.921113cd.chunk.js",
+    "static/js/391.4231211c.chunk.js": "/CHILLZONE-V-1/static/js/391.4231211c.chunk.js",
     "index.html": "/CHILLZONE-V-1/index.html",
-    "main.47478637.css.map": "/CHILLZONE-V-1/static/css/main.47478637.css.map",
-    "main.142d1619.js.map": "/CHILLZONE-V-1/static/js/main.142d1619.js.map",
-    "647.d4edabca.chunk.css.map": "/CHILLZONE-V-1/static/css/647.d4edabca.chunk.css.map",
-    "647.0ebfe4aa.chunk.js.map": "/CHILLZONE-V-1/static/js/647.0ebfe4aa.chunk.js.map",
-    "80.cb2effb4.chunk.js.map": "/CHILLZONE-V-1/static/js/80.cb2effb4.chunk.js.map",
-    "326.a0dd84c8.chunk.js.map": "/CHILLZONE-V-1/static/js/326.a0dd84c8.chunk.js.map"
+    "main.d38a66fa.css.map": "/CHILLZONE-V-1/static/css/main.d38a66fa.css.map",
+    "main.f90e159f.js.map": "/CHILLZONE-V-1/static/js/main.f90e159f.js.map",
+    "940.029176f4.chunk.js.map": "/CHILLZONE-V-1/static/js/940.029176f4.chunk.js.map",
+    "918.921113cd.chunk.js.map": "/CHILLZONE-V-1/static/js/918.921113cd.chunk.js.map",
+    "391.4231211c.chunk.js.map": "/CHILLZONE-V-1/static/js/391.4231211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47478637.css",
-    "static/js/main.142d1619.js"
+    "static/css/main.d38a66fa.css",
+    "static/js/main.f90e159f.js"
   ]
 }

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[391],{772:(e,t,n)=>{n.r(t),n.d(t,{default:()=>l});n(43);var r,s=n(528);const a=n(996).Ay.div(r||(r=(0,s.A)(["\n  margin-top: 20px;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  flex-wrap: wrap;\n"])));var c=n(579);const l=()=>(0,c.jsx)(a,{children:(0,c.jsx)("h1",{style:{color:"white"},children:"Bonuses"})})}}]);
+//# sourceMappingURL=391.4231211c.chunk.js.map
